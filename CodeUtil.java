@@ -1,4 +1,4 @@
-package com.code;
+﻿package com.code;
 
 import codeGenerate.def.FtlDef;
 import codeGenerate.factory.CodeGenerateFactory;
@@ -7,7 +7,7 @@ public class CodeUtil {
 	
 	public static void main(String[] args) {
 	
-		/** 此处修改成你的 表名 和 中文注释 ***/
+		/** 此处修改成你的 表名 和 中文注释1111111111111111 ***/
 		String tableName = "jeecg_person"; //
 		String codeName = "会员";// 中文注释 当然你用英文也是可以的
 		String entityPackage = "demo";// 实体包
